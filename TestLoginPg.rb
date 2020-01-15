@@ -17,15 +17,11 @@ class LoginPage <Test::Unit::TestCase
   end
 
   def test_valid_credentials
-    begin
     @browser.text_field(:name, 'email').set 'alexx@gmail.com'
     @browser.text_field(:name, 'pass').set 'mypass'
     @browser.label(:id, 'loginbutton').click
-    textRest = 'Forgotten password?'
-    textFound= @browser.link(:data_test, 'Forgotten password?').inner_text
-    assert_equal(textFound, textRest, 'Match failed')
-    rescue UnknownObjectException => ex
-      puts "exception::: #{ex}"
-      end
+    textRest = 'login'
+    textFound= @browser.title
+    assert_true(textFound.include?(textFound), 'match failed###########')
   end
-end
+  end
