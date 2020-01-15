@@ -43,5 +43,8 @@ browser.text_field(:id, 'pass').set '123456'
 browser.select(:id, 'year').select '2010'
 
 #using keyboard operations
-browser.send_keys(:name, 'firstname').
+browser.text_field(:name, 'email').set 'alexxx@gmail'
+browser.send_keys :tab
+browser.send_keys'mypassword'
+browser.send_keys :enter
 browser.close
