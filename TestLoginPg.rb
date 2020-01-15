@@ -22,6 +22,6 @@ class LoginPage <Test::Unit::TestCase
     @browser.label(:id, 'loginbutton').click
     textRest = 'login'
     textFound= @browser.title
-    assert_true(textFound.include?(textFound), 'match failed###########')
+    assert_true(textFound.include?(textRest), 'match failed###########')
   end
   end
