@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb9f52f7-4e8e-4c5a-a21a-d3f55b8a6229" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/FBlogin.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ScenarioOutline.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TestLoginPg.rb" beforeDir="false" afterPath="$PROJECT_DIR$/TestLoginPg.rb" afterDir="false" />
     </list>
@@ -107,7 +109,9 @@
       <option name="presentableId" value="Default" />
       <updated>1578824863506</updated>
       <workItem from="1578824865120" duration="11125000" />
-      <workItem from="1579075808472" duration="10636000" />
+      <workItem from="1579075808472" duration="11268000" />
+      <workItem from="1579338829337" duration="1661000" />
+      <workItem from="1579536755747" duration="6087000" />
     </task>
     <servers />
   </component>
@@ -115,22 +119,22 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1323" height="204" key="GridCell.Tab.0.bottom" timestamp="1579095146760">
+    <state width="1323" height="204" key="GridCell.Tab.0.bottom" timestamp="1579505268049">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="204" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579095146760" />
-    <state width="1323" height="204" key="GridCell.Tab.0.center" timestamp="1579095146760">
+    <state width="1323" height="204" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579505268049" />
+    <state width="1323" height="204" key="GridCell.Tab.0.center" timestamp="1579505268049">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="204" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1579095146760" />
-    <state width="1323" height="204" key="GridCell.Tab.0.left" timestamp="1579095146760">
+    <state width="1323" height="204" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1579505268049" />
+    <state width="1323" height="204" key="GridCell.Tab.0.left" timestamp="1579505268047">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="204" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1579095146760" />
-    <state width="1323" height="204" key="GridCell.Tab.0.right" timestamp="1579095146760">
+    <state width="1323" height="204" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1579505268047" />
+    <state width="1323" height="204" key="GridCell.Tab.0.right" timestamp="1579505268049">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="204" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579095146760" />
+    <state width="1323" height="204" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579505268049" />
     <state x="339" y="162" width="672" height="677" key="run.anything.popup" timestamp="1578826743397">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -142,7 +146,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/rubyWebAutomation@MyFirstScript.rcov" NAME="MyFirstScript Coverage Results" MODIFIED="1579081897259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rubyWebAutomation" />
-    <SUITE FILE_PATH="coverage/rubyWebAutomation@TestLoginPg.rcov" NAME="TestLoginPg Coverage Results" MODIFIED="1579095103188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rubyWebAutomation" />
+    <SUITE FILE_PATH="coverage/rubyWebAutomation@TestLoginPg.rcov" NAME="TestLoginPg Coverage Results" MODIFIED="1579339018757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rubyWebAutomation" />
     <SUITE FILE_PATH="coverage/rubyWebAutomation@TestFile.rcov" NAME="TestFile Coverage Results" MODIFIED="1579089498040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="rubyWebAutomation" />
   </component>
 </project>

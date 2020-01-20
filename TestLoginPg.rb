@@ -20,7 +20,7 @@ class LoginPage <Test::Unit::TestCase
     @browser.text_field(:name, 'email').set 'alexx@gmail.com'
     @browser.text_field(:name, 'pass').set 'mypass'
     @browser.label(:id, 'loginbutton').click
-    textRest = 'login'
+    textRest = 'log in or sign up'
     textFound= @browser.title
     assert_true(textFound.include?(textRest), 'match failed###########')
   end
