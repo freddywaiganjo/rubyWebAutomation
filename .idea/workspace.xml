@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb9f52f7-4e8e-4c5a-a21a-d3f55b8a6229" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/FBlogin.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ScenarioOutline.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestLoginPg.rb" beforeDir="false" afterPath="$PROJECT_DIR$/TestLoginPg.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +108,7 @@
       <workItem from="1578824865120" duration="11125000" />
       <workItem from="1579075808472" duration="11268000" />
       <workItem from="1579338829337" duration="1661000" />
-      <workItem from="1579536755747" duration="6087000" />
+      <workItem from="1579536755747" duration="6251000" />
     </task>
     <servers />
   </component>
